@@ -38,7 +38,7 @@ const pasteHTMLraw = fs.readFileSync("./assets/paste.html");
 
 
 app.use(async (req, res, next) => {
-    res.header("X-Powered-By", "AsmSafone");
+    res.header("X-Powered-By", "Mailbot");
     // console.log(`${req.method} ${req.path}`);
     next();
 });

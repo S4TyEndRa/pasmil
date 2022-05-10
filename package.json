@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/asmsafone/paste.git"
+    "url": "git+https://github.com/s4tyendra/pasmil.git"
   },
   "keywords": [
     "render",
@@ -19,12 +19,12 @@
     "pastebin",
     "highlighter"
   ],
-  "author": "safone",
+  "author": "safone Bro <3",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/asmsafone/paste/issues"
+    "url": "https://t.me/s4tyendra"
   },
-  "homepage": "https://github.com/asmsafone/paste#readme",
+  "homepage": "https://t.me/s4tyendra",
   "engines": {
     "npm": "8.1.0",
     "node": "16.11.0"
